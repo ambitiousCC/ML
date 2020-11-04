@@ -208,7 +208,7 @@ createPlot()
 ```
 
 
-![png](output_15_0.png)
+![png](./output_15_0.png)
 
 
 ## 构建注解树
@@ -382,7 +382,7 @@ createPlot(myTree)
     
 
 
-![png](output_27_1.png)
+![png](./output_27_1.png)
 
 
 
