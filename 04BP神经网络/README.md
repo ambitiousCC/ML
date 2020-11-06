@@ -692,7 +692,7 @@ w1,w2,b1,b2 = accumulate_BP(x,y,dim)
     
 
 
-![png](output_13_1.png)
+![png](./output_13_1.png)
 
 
 ### y预测
